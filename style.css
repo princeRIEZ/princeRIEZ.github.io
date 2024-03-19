@@ -1,0 +1,18 @@
+.struktur {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    /* Adjust this value to increase or decrease the space */
+}
+
+.struktur label {
+    margin-right: 10px;
+    width: 48px;
+    /* Adjust this value to change the width of the label */
+}
+
+.struktur textarea {
+    vertical-align: middle;
+    /* Aligns the textarea vertically in the middle */
+}
+
